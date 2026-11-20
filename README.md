@@ -19,6 +19,8 @@ stuff that you will get from this
 - Taskbar theme
 - Spotify theme
 - dynamic wallpaper switcher
+- Custom app launcher (alt + space)
+- Closing app shortcut (ctrl + shift + q)
 
 
 # HOW TO INSTALL 
