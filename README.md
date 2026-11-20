@@ -9,9 +9,16 @@ ______________________________________________
 
 _____________________________________________
 
+# IF YOU ARE HERE FOR THE LYRICS APP GO TO MY OTHER REPO!!
 
-this repo has everything you need to customize your windows so it has a simple and clean Gruvbox theme! 
+This repo has everything you need to customize your windows so it has a simple and clean Gruvbox theme! 
 this whole thing only runs around 50-100mb in the background so it works for lower end pcs
+
+stuff that you will get from this
+- Fully functional top bar with a theme
+- Taskbar theme
+- Spotify theme
+- dynamic wallpaper switcher
 
 
 # HOW TO INSTALL 
@@ -21,5 +28,5 @@ this whole thing only runs around 50-100mb in the background so it works for low
 - if you dont have any configs set up use this tutorial to install everything
 - https://youtu.be/9RJre4byy2g?si=uyF3cgDrcguyNdcN
 
-# WALLPAPER SETUP
--put the wallpapers folder in your `Pictures` folder on your pc
+# WALLPAPER WITCHER SETUP
+-put the wallpapers folder in your `Pictures` folder on your pc and add wallpapers in there for the future.
