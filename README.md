@@ -7,6 +7,15 @@ ______________________________________________
 
 <img width="777" height="582" alt="Screenshot 2026-11-19 151737" src="https://github.com/user-attachments/assets/45828b9c-d3e4-437e-97ba-745b2e839535" />
 
+# REGUIREMENTS
+
+- # YASB, WINDHAWK AND KOMOREBI NEED TO BE INSTALLED FOR THIS
+- Jet brains Nerd font (u can find it online)
+- knowledge on editing config files, cause stuff like the browser app wont work cause its linked to my directory
+- recomended to use helium browser
+- memreduct the app for the cleaning memory widget
+
+
 _____________________________________________
 
 # IF YOU ARE HERE FOR THE LYRICS APP GO TO MY OTHER REPO!!
