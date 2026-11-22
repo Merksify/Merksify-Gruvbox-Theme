@@ -274,9 +274,3 @@
     "useAcrylicInTabRow": true
 }
 ```[cite: 1]
-
-### What changed:
-* Added a **Charcoal Dark** scheme using `#26282A` for the background and set it as the `colorScheme` on both `profiles.defaults` and your **PowerShell** profile[cite: 1].
-* Updated the **Monochrome** theme's `tab`, `tabRow`, and `window` properties to dark tones so the title/tab bar blends seamlessly with the background[cite: 1].
-
-If you want it slightly darker or lighter (for example, `#222426` or `#2A2C2E`), or if you'd rather apply `#26282A` directly onto your existing **Gruvbox Material** or **Monochrome** scheme instead of a new one, just let me know!
